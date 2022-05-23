@@ -9,10 +9,10 @@ Chapter2 day1
 https://github.com/minku777/-quest-submissions/tree/main/Chapter2/day1
 
 Chapter2 day2
-https://github.com/minku777/-quest-submissions/tree/main/Chapter2/day1
+https://github.com/minku777/-quest-submissions/tree/main/Chapter2/day2
 
 Chapter2 day3
-https://github.com/minku777/-quest-submissions/tree/main/Chapter2/day1
+https://github.com/minku777/-quest-submissions/tree/main/Chapter2/day3
 
 Chapter2 day4
-https://github.com/minku777/-quest-submissions/tree/main/Chapter2/day1
+https://github.com/minku777/-quest-submissions/tree/main/Chapter2/day4
