@@ -34,3 +34,7 @@
 
 ▼Chapter4 day1<br>
 [Chapter4 day1 Answer](https://github.com/minku777/-quest-submissions/issues/6)
+
+
+▼Chapter4 day2<br>
+[Chapter4 day2 Answer](https://github.com/minku777/-quest-submissions/issues/7)
